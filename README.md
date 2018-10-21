@@ -1,3 +1,6 @@
+中文文档
+http://doc.oschina.net/grpc?t=58008
+
 gRPC-Java - An RPC library and framework
 ========================================
 
